@@ -26,12 +26,9 @@ ai-chat-app/
 ● Node.js installed
 
 ● OpenAI API Key (get it from https://platform.openai.com/account/api-keys)
+<br><br>
 
 ## 📦 Installation (Step-by-Step)
-
-### Clone the repository
-
-📦 Installation (Step-by-Step)
 
 Follow these steps to set up and run the project locally:
 
@@ -56,6 +53,7 @@ OPENAI_API_KEY=your_actual_api_key_here
 ```
 npm start
 ```
+<br>
 ✅ You're ready to go!
 
 Use the app and chat with AI in real time! 🎉
